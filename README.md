@@ -10,20 +10,22 @@ So what does it do?
 --
 Well Horizon Radio allows you to host your own Discord bot from a Server or
 your very own pc with just one run.bat I know amazing right. Horizon Radio
-Also allows you to over 100+ radio stations from around the glove from alot
+Also allows you to over 100+ radio stations from around the globe from alot
 of Countries.
 
 So how does it work?
 --
 Well you download Horizon Radio source code and edit it to your licking or
-you can downlaod the .jar and one you have the .jar you will put
+you can downlaod the .jar and once you have the .jar you will put
 
 ```
 @ECHO OFF
 java -jar HorizonRadio.jar
 ```
-in to the .bat file and then make sure the .jar file is in the same location as
-your .bat file then you will run the .bat file and boom the bot is up and running.
+in to a .bat file and then make sure the .jar file is in the same location as
+your .bat file then you will need to edit the config.yml and put your bot toekn
+in and change the other stuff to what you would like. Once that is done you
+will then run the .bat file you made before and boom the bot is up and running.
 
 What is all the features Horizon Radio Offers??
 --
